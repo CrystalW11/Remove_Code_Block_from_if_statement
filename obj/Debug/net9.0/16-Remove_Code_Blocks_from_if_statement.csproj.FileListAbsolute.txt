@@ -1,0 +1,14 @@
+D:\coding_dojo\C Sharp\C#\CsharpProjects\16-Remove_Code_Blocks_from_if_statement\bin\Debug\net9.0\16-Remove_Code_Blocks_from_if_statement.exe
+D:\coding_dojo\C Sharp\C#\CsharpProjects\16-Remove_Code_Blocks_from_if_statement\bin\Debug\net9.0\16-Remove_Code_Blocks_from_if_statement.deps.json
+D:\coding_dojo\C Sharp\C#\CsharpProjects\16-Remove_Code_Blocks_from_if_statement\bin\Debug\net9.0\16-Remove_Code_Blocks_from_if_statement.runtimeconfig.json
+D:\coding_dojo\C Sharp\C#\CsharpProjects\16-Remove_Code_Blocks_from_if_statement\bin\Debug\net9.0\16-Remove_Code_Blocks_from_if_statement.dll
+D:\coding_dojo\C Sharp\C#\CsharpProjects\16-Remove_Code_Blocks_from_if_statement\bin\Debug\net9.0\16-Remove_Code_Blocks_from_if_statement.pdb
+D:\coding_dojo\C Sharp\C#\CsharpProjects\16-Remove_Code_Blocks_from_if_statement\obj\Debug\net9.0\16-Remove_Code_Blocks_from_if_statement.GeneratedMSBuildEditorConfig.editorconfig
+D:\coding_dojo\C Sharp\C#\CsharpProjects\16-Remove_Code_Blocks_from_if_statement\obj\Debug\net9.0\16-Remove_Code_Blocks_from_if_statement.AssemblyInfoInputs.cache
+D:\coding_dojo\C Sharp\C#\CsharpProjects\16-Remove_Code_Blocks_from_if_statement\obj\Debug\net9.0\16-Remove_Code_Blocks_from_if_statement.AssemblyInfo.cs
+D:\coding_dojo\C Sharp\C#\CsharpProjects\16-Remove_Code_Blocks_from_if_statement\obj\Debug\net9.0\16-Remove_Code_Blocks_from_if_statement.csproj.CoreCompileInputs.cache
+D:\coding_dojo\C Sharp\C#\CsharpProjects\16-Remove_Code_Blocks_from_if_statement\obj\Debug\net9.0\16-Remove_Code_Blocks_from_if_statement.dll
+D:\coding_dojo\C Sharp\C#\CsharpProjects\16-Remove_Code_Blocks_from_if_statement\obj\Debug\net9.0\refint\16-Remove_Code_Blocks_from_if_statement.dll
+D:\coding_dojo\C Sharp\C#\CsharpProjects\16-Remove_Code_Blocks_from_if_statement\obj\Debug\net9.0\16-Remove_Code_Blocks_from_if_statement.pdb
+D:\coding_dojo\C Sharp\C#\CsharpProjects\16-Remove_Code_Blocks_from_if_statement\obj\Debug\net9.0\16-Remove_Code_Blocks_from_if_statement.genruntimeconfig.cache
+D:\coding_dojo\C Sharp\C#\CsharpProjects\16-Remove_Code_Blocks_from_if_statement\obj\Debug\net9.0\ref\16-Remove_Code_Blocks_from_if_statement.dll
