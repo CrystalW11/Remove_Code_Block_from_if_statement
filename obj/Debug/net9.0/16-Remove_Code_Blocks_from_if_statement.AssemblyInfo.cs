@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("16-Remove_Code_Blocks_from_if_statement")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cbed9af199ce4aa5cff74f1e7a072e1c587c71d8")]
 [assembly: System.Reflection.AssemblyProductAttribute("16-Remove_Code_Blocks_from_if_statement")]
 [assembly: System.Reflection.AssemblyTitleAttribute("16-Remove_Code_Blocks_from_if_statement")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

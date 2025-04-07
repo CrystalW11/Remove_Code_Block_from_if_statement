@@ -12,3 +12,4 @@ D:\coding_dojo\C Sharp\C#\CsharpProjects\16-Remove_Code_Blocks_from_if_statement
 D:\coding_dojo\C Sharp\C#\CsharpProjects\16-Remove_Code_Blocks_from_if_statement\obj\Debug\net9.0\16-Remove_Code_Blocks_from_if_statement.pdb
 D:\coding_dojo\C Sharp\C#\CsharpProjects\16-Remove_Code_Blocks_from_if_statement\obj\Debug\net9.0\16-Remove_Code_Blocks_from_if_statement.genruntimeconfig.cache
 D:\coding_dojo\C Sharp\C#\CsharpProjects\16-Remove_Code_Blocks_from_if_statement\obj\Debug\net9.0\ref\16-Remove_Code_Blocks_from_if_statement.dll
+D:\coding_dojo\C Sharp\C#\CsharpProjects\16-Remove_Code_Blocks_from_if_statement\obj\Debug\net9.0\16-Remove_Code_Blocks_from_if_statement.sourcelink.json
